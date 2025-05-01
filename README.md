@@ -18,3 +18,60 @@ A simple console-based currency converter built using Java and Object-Oriented P
 - OOP Concepts: Classes, Objects, Encapsulation
 
 ---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/currency-converter-java.git
+   cd currency-converter-java
+
+2.Compile the Java files:
+   javac Currency.java Converter.java CurrencyConverterApp.java
+
+3.Run the program:
+   java CurrencyConverterApp
+
+---
+
+##Sample Output
+
+=== Currency Converter ===
+Supported Currencies:
+- INR
+- USD
+- EUR
+- GBP
+- JPY
+Enter source currency (e.g., USD): USD
+Enter target currency (e.g., INR): INR
+Enter amount to convert: 10
+Converted amount: 833.33 INR
+
+
+---
+
+
+##📋 Applications:
+
+Useful for quick manual currency conversions
+
+Educational use for learning OOP in Java
+
+Foundation for future extensions (API integration or GUI)
+
+---
+
+##⚠️ Limitations
+
+Static exchange rates (no real-time updates)
+
+No GUI or mobile support
+
+Limited error handling and no conversion history
+
+---
+
+👨‍💻 Author
+Your Name – @realemilia
+
